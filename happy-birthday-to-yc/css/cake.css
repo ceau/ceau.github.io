@@ -173,12 +173,13 @@ a {
 }
 
 #code {
-    float: left;
-    width: 440px;
-    height: 400px;
+    height: 30em;
+    width: 30em;
+    margin: 10px auto;
     color: #333;
     font-family: "Consolas", "Monaco", "Bitstream Vera Sans Mono", "Courier New", "sans-serif";
-    font-size: 12px
+    font-size: 12px;
+
 }
 
 #code .string {
